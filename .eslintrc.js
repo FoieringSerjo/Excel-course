@@ -15,6 +15,10 @@ module.exports = {
   rules: {
     'semi': 'off',
     'comma-dangle': 'off',
-    'linebreal-style': 'off'
+    // 'linebreal-style': 'off',
+    'require-jsdoc': 'off',
+    'no-trailing-spaces': 'off',
+    'max-len': 'off',
+    'linebreak-style': 'off'
   }
 }
